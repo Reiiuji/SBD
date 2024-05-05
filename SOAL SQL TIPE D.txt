@@ -1,6 +1,6 @@
-Nama: Nandana Rasendriya
--- NPM: 11122056 
--- Kelas: 2KA07
+--NAMA  : WAHYU HIDAYAT
+--NPM   : 11122464
+--Kelas : 2KA01
 
 -- 1. Jelaskan mengenai klausa with check option dan klausa read only!
 -- Jawaban: 
