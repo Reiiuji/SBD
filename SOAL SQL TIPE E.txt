@@ -1,4 +1,8 @@
---Nurwahid Septian 2KA07 11122099
+--NAMA  : WAHYU HIDAYAT
+--NPM   : 11122464
+--Kelas : 2KA01
+
+
 -- 1. Jelaskan apa itu perintah COMMIT dan ROLLBACK!
 --COMMIT adalah perintah yang digunakan untuk menyimpan transaksi secara permanen di database.
 --ROLLBACK  adalah Perintah Yang digunakan untuk mengembalikan database ke bentuk awal.
