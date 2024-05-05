@@ -78,7 +78,7 @@ INSERT INTO Inventory (Invent_ID, Book_ID, Stok) VALUES(414, 404, 9);
 
 CREATE VIEW v_inventory_npm AS --membuat view dengan nama v_inventory_npm
 SELECT B.Judul, B.Penulis, B.Genre, B.Harga,I.Stok -- untuk menampilkan judul, penulis, gebter, harga dari table buku. dan stok dari table inventory
-FROM Buku B -- ambil data dari buku 
+FROM Buku -- ambil data dari buku 
 JOIN Inventory I ON B.Book_ID = I.Book_ID; --lalu di gabungkan ke dalam inventory
 
 select * from v_inventory_npm; --untuk menampilkan view v_inventory_npm
