@@ -1,6 +1,6 @@
---NAMA  : Sakti Widi Prabowo
---NPM   : 11122574
---Kelas : 2KA12
+--NAMA  : WAHYU HIDAYAT
+--NPM   : 11122464
+--Kelas : 2KA01
 
 /*SOAL 1
 Jelaskan apa yang dimaksud dengan grant and revoke? dan perintah apa saja yang
