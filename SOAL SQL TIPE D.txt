@@ -75,5 +75,7 @@ WHERE tempat_tinggal = 'Pontianak';
 CREATE USER ahmad IDENTIFIED BY ahmad123;
 
 -- Memberikan role 'pengelola' kepada user 'ahmad' dengan akses khusus pada tabel mahasiswa_kampus
-GRANT CONNECT TO ahmad;
-GRANT SELECT, INSERT, UPDATE, DELETE ON mahasiswa_kampus TO ahmad;
+CREATE ROLE PENGELOLA;
+GRANT SELECT, INSERT, UPDATE, DELETE ON mahasiswa_kampus TO PENGELOLA;
+
+GRANT PENGELOLA TO ahmad;
