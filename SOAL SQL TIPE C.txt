@@ -1,7 +1,6 @@
---NAMA  : WAHYU HIDAYAT
---NPM   : 11122464
---Kelas : 2KA01
-
+--NAMA  : ????
+--NPM   : ????
+--Kelas : ????
 /*
 -- Nomor 1
 Apa itu DCL dan apa saja perintah di dalam DCL? sebutkan dan jelaskan!
