@@ -1,6 +1,6 @@
---NAMA  : WAHYU HIDAYAT
---NPM   : 11122464
---Kelas : 2KA01
+--NAMA  : ????
+--NPM   : ????
+--Kelas : ????
 
 /*SOAL 1
 Jelaskan apa yang dimaksud dengan grant and revoke? dan perintah apa saja yang
