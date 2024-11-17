@@ -1,6 +1,6 @@
---NAMA  : WAHYU HIDAYAT
---NPM   : 11122464
---Kelas : 2KA01
+--NAMA  : ????
+--NPM   : ????
+--Kelas : ????
 
 /*
 1. Jelaskan apa perbedaan complex view dan simple view
